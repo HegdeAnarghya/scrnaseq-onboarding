@@ -3,3 +3,4 @@
 .RData
 .Rproj.user/
 *.tar.gz
+Using_sctransform-Seurat/filtered_gene_bc_matrices/
